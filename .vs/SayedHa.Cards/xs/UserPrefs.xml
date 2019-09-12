@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{492CDD9E-7FFD-4370-91CF-BC64D810B077}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SayedHa.Cards.Shared/Class1.cs">
+    <Files>
+      <File FileName="SayedHa.Cards.Shared/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SayedHa.Cards" expanded="True">
+            <Node name="SayedHa.Cards.Shared" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SayedHa.Cards.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SayedHa.Cards.Web FirstBuild="True" PreferredExecutionTarget="/Applications/Microsoft Edge Canary.app" />
+</Properties>

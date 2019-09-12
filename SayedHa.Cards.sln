@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayedHa.Cards.Web", "SayedHa.Cards.Web\SayedHa.Cards.Web.csproj", "{492CDD9E-7FFD-4370-91CF-BC64D810B077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayedHa.Cards.Shared", "SayedHa.Cards.Shared\SayedHa.Cards.Shared.csproj", "{6E339A81-1CBF-4F79-8D20-FE5938522917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{492CDD9E-7FFD-4370-91CF-BC64D810B077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492CDD9E-7FFD-4370-91CF-BC64D810B077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492CDD9E-7FFD-4370-91CF-BC64D810B077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492CDD9E-7FFD-4370-91CF-BC64D810B077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E339A81-1CBF-4F79-8D20-FE5938522917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E339A81-1CBF-4F79-8D20-FE5938522917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E339A81-1CBF-4F79-8D20-FE5938522917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E339A81-1CBF-4F79-8D20-FE5938522917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
